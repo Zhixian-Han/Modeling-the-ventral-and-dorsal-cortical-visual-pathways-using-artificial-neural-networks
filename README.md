@@ -1,4 +1,4 @@
-# neural_computation_paper_1_Code 
+# Modeling the ventral and dorsal cortical visual pathways using artificial neural networks 
 
 The Code is for paper: https://doi.org/10.1162/neco_a_01456 
 
